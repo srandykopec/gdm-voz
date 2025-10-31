@@ -37,6 +37,16 @@ https://www.youtube.com/watch?v=m6tE_bgi3qo
 	https://www.vzhurudolu.cz/prirucka/css-kaskada  
 	https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 
+- 🧱 Rozloženie: Flexbox a Grid (tvoje super-sily na layout):  
+	https://www.vzhurudolu.cz/prirucka/css-flexbox  
+	https://www.vzhurudolu.cz/prirucka/css-grid
+
+- � Jednotky (em, rem, vw, %… čo kedy použiť):  
+	https://www.vzhurudolu.cz/prirucka/jednotky
+
+- 🎛️ CSS premenné (nech máš farby a veľkosti pod kontrolou):  
+	https://www.vzhurudolu.cz/prirucka/css-promenne-priklady
+
 - 🐙 Git od základov (video, podrobne):  
 	https://youtu.be/0v5K4GvK4Gs?si=l66u3ZI8nQku1PuE
 
@@ -61,15 +71,7 @@ https://www.youtube.com/watch?v=m6tE_bgi3qo
 - 🧠 CSS triky a inšpirácie:  
 	https://css-tricks.com
 
-- 🧱 Rozloženie: Flexbox a Grid (tvoje super-sily na layout):  
-	https://www.vzhurudolu.cz/prirucka/css-flexbox  
-	https://www.vzhurudolu.cz/prirucka/css-grid
 
-- � Jednotky (em, rem, vw, %… čo kedy použiť):  
-	https://www.vzhurudolu.cz/prirucka/jednotky
-
-- 🎛️ CSS premenné (nech máš farby a veľkosti pod kontrolou):  
-	https://www.vzhurudolu.cz/prirucka/css-promenne-priklady
 
 - 🛠️ Developer Tools (Nástroje pre vývojárov):  
   V každom modernom prehliadači (Chrome, Firefox, Edge) nájdeš Developer Tools – otvoríš ich klávesou F12 alebo pravým klikom na stránku → „Preskúmať“. Pomôžu ti pozrieť si HTML, CSS, konzolu, chyby, upravovať štýly priamo v prehliadači a sledovať, čo sa deje na stránke. Je to najlepší kamarát každého web developera!
