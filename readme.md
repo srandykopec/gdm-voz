@@ -8,24 +8,6 @@
 - Praktické videá a playlisty na krok-za-krokom učenie ▶️
 - Odkazy na profi dokumentáciu, keď chceš ísť viac do hĺbky 📚
 
-
----
-
-## Ako na AI? 🤖
-
-AI je super pomocník, ale v začiatkoch sa sústreď na to, aby si rozumel/a kódu, ktorý píšeš. Nejde o to, aby si mal/a najviac funkcií, ale aby si vedel/a vysvetliť, čo robí každý riadok. Ak použiješ AI, vždy si prečítaj, čo ti navrhla, a skús to vysvetliť vlastnými slovami. V projekte je dôležité, aby si vedel/a svoj kód obhájiť! 💬
-
-> Tip: AI ti môže pomôcť, keď nevieš ako ďalej, ale najskôr skús sám/sama. Porozumenie je základ, skill príde časom! 😉
-
----
-
-## Hodnotenie & skúšanie 🏆
-
-- Hodnotí sa hlavne porozumenie kódu – vieš vysvetliť, čo robí tvoj web, prečo si použil/a dané riešenie?
-- Pri zadaniach sa hodnotí to, čo je požadované v zadaní (napr. layout, farby, funkčnosť, responzivita...)
-- Môže sa stať, že bude aj ústne skúšanie – napr. vysvetli konkrétnu tému (ako na maturite), alebo popíš, čo robí konkrétny kus kódu, ako by si ho upravil/a, aby robil niečo iné.
-- Neboj sa pýtať, ak niečomu nerozumieš – cieľom je, aby si rozumel/a, nie len „odovzdal/a hotový web“.
-
 ---
 
 
@@ -81,4 +63,23 @@ AI je super pomocník, ale v začiatkoch sa sústreď na to, aby si rozumel/a k�
 
 > Prekladač tip 💡: V Chrome klikni pravým v stránke → „Preložiť“. Ak je článok po anglicky, no stress, máš to v slovenčine/češtine za pár sekúnd. 😉
 
+
+
+## Hodnotenie & skúšanie 🏆
+
+- Hodnotí sa hlavne porozumenie kódu – vieš vysvetliť, čo robí tvoj web, prečo si použil/a dané riešenie?
+- Pri zadaniach sa hodnotí to, čo je požadované v zadaní (napr. layout, farby, funkčnosť, responzivita...)
+- Môže sa stať, že bude aj ústne skúšanie – napr. vysvetli konkrétnu tému (ako na maturite), alebo popíš, čo robí konkrétny kus kódu, ako by si ho upravil/a, aby robil niečo iné.
+- Neboj sa pýtať, ak niečomu nerozumieš – cieľom je, aby si rozumel/a, nie len „odovzdal/a hotový web“.
+
+
+---
+
+## Ako na AI? 🤖
+
+AI je super pomocník, ale v začiatkoch sa sústreď na to, aby si rozumel/a kódu, ktorý píšeš. Nejde o to, aby si mal/a najviac funkcií, ale aby si vedel/a vysvetliť, čo robí každý riadok. Ak použiješ AI, vždy si prečítaj, čo ti navrhla, a skús to vysvetliť vlastnými slovami. V projekte je dôležité, aby si vedel/a svoj kód obhájiť! 💬
+
+> Tip: AI ti môže pomôcť, keď nevieš ako ďalej, ale najskôr skús sám/sama. Porozumenie je základ, skill príde časom! 😉
+
+---
 
