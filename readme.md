@@ -1,25 +1,6 @@
-# gdm-voz
+# gdm-voz  📲🖥️
 🔥🔥**Repozitár materiálov predmetu EPU a OVY (časť web) odboru grafik digitálnych médií, 2 ročník**🔥🔥
 
-
-
-👉**HTML a CSS od základov**  
-https://www.youtube.com/watch?v=LULd0858mUQ
-https://github.com/yablko/html-a-css-zaklady    
-
-  
-   
-👉**Kurz HTML a CSS**  
-https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF     
-
-
- 
-👉**Vysvetlenie jednotlivých tém v HTML a CSS**  
-https://youtube.com/playlist?list=PLQ8x_VWW6AkvCiDzMEI5K9jW_1rsV9PTf&si=ynbLIKWCrRzxBHWw   
-  
-
-
-# gdm-voz 🌐💻
 
 🔥 Repozitár materiálov k predmetom EPU a OVY (časť WEB) – odbor Grafik digitálnych médií, 2. ročník. Pripútaj sa, ideme stavať weby, ktoré vyzerajú fresh a fungujú smart! 🚀
 
@@ -51,23 +32,15 @@ AI je super pomocník, ale v začiatkoch sa sústreď na to, aby si rozumel/a k�
 ---
 
 
-## Začni tu: levely a misie 🕹️
+## Študijné materiály a zdroje �
 
-1) Level 1 – Úplné základy HTML/CSS 🧱  
-👉 Video: https://www.youtube.com/watch?v=LULd0858mUQ  
-👉 Kód a príklady: https://github.com/yablko/html-a-css-zaklady
 
-2) Level 2 – Kompletný kurz HTML a CSS 🎓  
-👉 Playlist: https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF
-
-3) Level 3 – Témy vysvetlené po kúskoch 🧩  
-👉 Playlist: https://youtube.com/playlist?list=PLQ8x_VWW6AkvCiDzMEI5K9jW_1rsV9PTf&si=ynbLIKWCrRzxBHWw
-
-4) Level 4 – Tvorba dizajnu stránky 🎨  
-👉 Video: https://www.youtube.com/watch?v=WU-lZUCYTCQ&t
-
-5) Level 5 – Responzívny web za ~2 hodiny ⏱️📱  
-👉 Video: https://www.youtube.com/watch?v=m6tE_bgi3qo
+- 🧱 Základy HTML/CSS – video: https://www.youtube.com/watch?v=LULd0858mUQ
+- 🧑‍� Kód a príklady: https://github.com/yablko/html-a-css-zaklady
+- 🎓 Kompletný kurz HTML a CSS – playlist: https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF
+- 🧩 Témy vysvetlené po kúskoch – playlist: https://youtube.com/playlist?list=PLQ8x_VWW6AkvCiDzMEI5K9jW_1rsV9PTf&si=ynbLIKWCrRzxBHWw
+- 🎨 Tvorba dizajnu stránky – video: https://www.youtube.com/watch?v=WU-lZUCYTCQ&t
+- ⏱️📱 Responzívny web za ~2 hodiny – video: https://www.youtube.com/watch?v=m6tE_bgi3qo
 
 ---
 
@@ -93,6 +66,10 @@ AI je super pomocník, ale v začiatkoch sa sústreď na to, aby si rozumel/a k�
 	https://www.vzhurudolu.cz/prirucka/css-promenne-priklady
 - 🆕 Novinky v CSS (buď v obraze):  
 	https://www.youtube.com/watch?v=4keP0UF9RWU
+- 🐙 Git od základov (video, podrobne):
+	https://youtu.be/0v5K4GvK4Gs?si=l66u3ZI8nQku1PuE
+- ⚡ Rýchly štart s Gitom a prvý commit:
+	https://youtu.be/Vlyx21agi7w?si=aL0hVmoE6nKsGtgr
 
 ---
 
