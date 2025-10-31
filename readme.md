@@ -100,28 +100,11 @@ AI je super pomocník, ale v začiatkoch sa sústreď na to, aby si rozumel/a k�
 
 - ⌨️ Špeciálne znaky na klávesnici (áno, aj tie zriedkavé):  
 	https://tech.sme.sk/c/2817461/naucte-sa-na-klavesnici-pisat-zriedkave-znaky.html
-- 🌍 Jak psát web (CZ) – super základy po česky:  
+- 🌍 Jak psát web (CZ) – základy po česky:  
 	https://www.jakpsatweb.cz/
 - 🧑‍💻 MDN – hlavná stránka (keď chceš hľadať ďalej):  
 	https://developer.mozilla.org/en-US/
 
 > Prekladač tip 💡: V Chrome klikni pravým v stránke → „Preložiť“. Ak je článok po anglicky, no stress, máš to v slovenčine/češtine za pár sekúnd. 😉
 
-
-
-## FAQ 🤔
-
-• Musím vedieť perfektne po anglicky?  
-Nie. Väčšina videí je česky/slovensky a články si vieš preložiť v prehliadači. Naučíš sa popri tom aj technickú angličtinu – win-win.
-
-• Čím mám začať, keď som úplný/úplná začiatočník/čka?  
-Začni Levelom 1 a zároveň si kludne otváraj „Záchranný balíček“ s dokumentáciou. Uč sa po malých krokoch, ale pravidelne.
-
-• Ako si spustím kód?  
-Stačí ti prehliadač (Chrome/Firefox) a textový editor. Ulož si súbor ako `index.html` a dvojklikom ho otvor v prehliadači.
-
-• Čo ak „CSS nefunguje“?  
-Najčastejšie: nesprávna cesta k súboru, špecifita alebo preklep. Pozri sekciu o selektoroch a špecifite vyššie a skontroluj prehliadačovú konzolu.
-
----
 
