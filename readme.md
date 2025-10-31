@@ -14,19 +14,24 @@
 ## Študijné materiály a zdroje �
 
 
-
 - 🧱 Základy HTML/CSS – video:
-	https://www.youtube.com/watch?v=LULd0858mUQ
+https://www.youtube.com/watch?v=LULd0858mUQ
+
 - 🧑‍💻 Kód a príklady:
-	https://github.com/yablko/html-a-css-zaklady
+https://github.com/yablko/html-a-css-zaklady
+
 - 🎓 Kompletný kurz HTML a CSS – playlist:
-	https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF
+https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF
+
 - 🧩 Témy vysvetlené po kúskoch – playlist:
-	https://youtube.com/playlist?list=PLQ8x_VWW6AkvCiDzMEI5K9jW_1rsV9PTf&si=ynbLIKWCrRzxBHWw
+https://youtube.com/playlist?list=PLQ8x_VWW6AkvCiDzMEI5K9jW_1rsV9PTf&si=ynbLIKWCrRzxBHWw
+
 - 🎨 Tvorba dizajnu stránky – video:
-	https://www.youtube.com/watch?v=WU-lZUCYTCQ&t
+https://www.youtube.com/watch?v=WU-lZUCYTCQ&t
+
 - ⏱️📱 Responzívny web za ~2 hodiny – video:
-	https://www.youtube.com/watch?v=m6tE_bgi3qo
+https://www.youtube.com/watch?v=m6tE_bgi3qo
+
 
 ---
 
