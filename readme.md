@@ -2,9 +2,6 @@
 🔥🔥**Repozitár materiálov predmetu EPU a OVY (časť web) odboru grafik digitálnych médií, 2 ročník**🔥🔥
 
 
-🔥 Repozitár materiálov k predmetom EPU a OVY (časť WEB) – odbor Grafik digitálnych médií, 2. ročník. Pripútaj sa, ideme stavať weby, ktoré vyzerajú fresh a fungujú smart! 🚀
-
-
 ## Čo ťa čaká 🎯
 
 - Nabaľovanie vedomostí z HTML a CSS s nábehom na JavaScript 😊
