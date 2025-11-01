@@ -1,4 +1,4 @@
-# gdm-voz  📲🖥️
+# 2epu_2ovy_gdm_voz  📲🖥️
 🔥🔥**Repozitár materiálov predmetu EPU a OVY (časť web) odboru grafik digitálnych médií, 2. ročník**🔥🔥
 
 
