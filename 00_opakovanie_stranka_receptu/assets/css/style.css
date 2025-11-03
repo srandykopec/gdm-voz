@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+
+body{
+  background-color: chocolate;
+  font-family: 'Outfit', Courier, monospace;
+
+}
+
+h1,h2{
+  font-family: 'Young Serif', Courier, monospace;
+}
