@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quicksand:wght@300..700&display=swap'); 
+/* naimportoval som font z google fonts */
+
+
+body{
+    margin: 0 auto;
+    max-width: 768px;
+}
+
+.container{
+    margin: 200px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-bottom: 10px dashed plum;
+    border-left: 10px double aqua;
+    border-right: 10px dotted darkgreen;
+    border-top: 10px solid deeppink;
+    padding: 70px;
+}
+
+
+h1{
+    border: 10px solid deeppink;
+    padding: 15px;
+}
+
+.perex{
+    text-align: justify;
+    font-style: italic;
+    font-family: 'Quicksand', Arial, Helvetica, sans-serif;
+    line-height: 19px;
+}
+
+.druhy{
+    display: flex;
+    color: blueviolet;
+}
+
+.druhy > p:first-child{
+    width: 20%;
+    background-color: aqua;
+}
