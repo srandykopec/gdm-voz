@@ -1,6 +1,7 @@
 # 2epu_2ovy_gdm_voz  📲🖥️
 🔥🔥**Repozitár materiálov predmetu EPU a OVY (časť web) odboru grafik digitálnych médií, 2. ročník**🔥🔥
 
+Môj prvý repozitár a iné kvetnaté slová
 
 ## Čo ťa čaká 🎯
 
