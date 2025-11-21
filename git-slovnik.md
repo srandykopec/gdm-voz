@@ -1,6 +1,6 @@
 # Git & GitHub slovníček 🚀
 
-## Základy základov
+## Základy základov 👌
 
 ### Repozitár (repo)
 Fancy názov pre priečinok s tvojím projektom. Git si v ňom pamätá všetky zmeny, čo si kedy urobil. Je to ako Instagram, ale pre kód - máš tam celú históriu. Môže byť na tvojom PC (lokálny) alebo na GitHube (vzdialený).
